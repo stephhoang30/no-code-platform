@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './styles/vars';
+
+html, body
+{
+    height: 100%;
+}
